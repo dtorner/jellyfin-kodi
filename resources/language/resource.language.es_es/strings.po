@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Jellyfin for Kodi\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language-Team: \n"
+"Language-Team: dtorner\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,7 +32,7 @@ msgstr "Forzar reproducción HTTP"
 
 msgctxt "#30003"
 msgid "Login method"
-msgstr "Método de "
+msgstr "Método de Inicio de sesión"
 
 msgctxt "#30004"
 msgid "Log level"
@@ -64,11 +64,11 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "For Episodes"
-msgstr ""
+msgstr "Para Episodios"
 
 msgctxt "#30116"
 msgid "For Movies"
-msgstr ""
+msgstr "Para Películas"
 
 msgctxt "#30157"
 msgid "Enable enhanced artwork (i.e. cover art)"
@@ -84,11 +84,11 @@ msgstr ""
 
 msgctxt "#30171"
 msgid "In Progress TV Shows"
-msgstr ""
+msgstr "Series en progreso"
 
 msgctxt "#30174"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Películas Recientes"
 
 msgctxt "#30175"
 msgid "Recently Added Episodes"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgctxt "#30177"
 msgid "In Progress Movies"
-msgstr ""
+msgstr "Películas En Progreso"
 
 msgctxt "#30178"
 msgid "In Progress Episodes"
@@ -144,7 +144,7 @@ msgstr ""
 
 msgctxt "#30249"
 msgid "Enable welcome message"
-msgstr ""
+msgstr "Activar mensaje de bienvenida"
 
 msgctxt "#30251"
 msgid "Recently added Home Videos"
@@ -160,11 +160,11 @@ msgstr ""
 
 msgctxt "#30254"
 msgid "Favourite Photos"
-msgstr ""
+msgstr "Fotos favoritas"
 
 msgctxt "#30255"
 msgid "Favourite Albums"
-msgstr ""
+msgstr "Álbumes favoritos"
 
 msgctxt "#30256"
 msgid "Recently added Music videos"
@@ -180,11 +180,11 @@ msgstr ""
 
 msgctxt "#30302"
 msgid "Movies"
-msgstr ""
+msgstr "Películas"
 
 msgctxt "#30305"
 msgid "TV Shows"
-msgstr ""
+msgstr "Series de TV"
 
 msgctxt "#30401"
 msgid "Jellyfin options"
@@ -216,7 +216,7 @@ msgstr "Actualizar este item"
 
 msgctxt "#30412"
 msgid "Transcode"
-msgstr ""
+msgstr "Transcodificar"
 
 msgctxt "#30500"
 msgid "Verify connection"
@@ -292,7 +292,7 @@ msgstr "Usuarios permanentes"
 
 msgctxt "#30529"
 msgid "Startup delay (in seconds)"
-msgstr "Retraso al inicio (en segundos)"
+msgstr "Retraso al iniciar (en segundos)"
 
 msgctxt "#30530"
 msgid "Enable server restart message"
